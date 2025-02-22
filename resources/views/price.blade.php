@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pricing - SFU Bypass</title>
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link rel="icon" type="image/png" href="{{ asset('image/cat.png') }}">
     @livewireStyles
 </head>
 <body class="min-h-screen bg-gray-100 flex flex-col">

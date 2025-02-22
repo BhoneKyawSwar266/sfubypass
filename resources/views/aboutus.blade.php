@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us - SFU Bypass</title>
+    <link rel="icon" type="image/png" href="{{ asset('image/cat.png') }}">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     @livewireStyles
 </head>
